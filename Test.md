@@ -88,5 +88,5 @@ Default directory index:
 
 Que: How to change the  document folder.
 
-Firewall security -> network level
+Firewall security -> network level <BR/>
 SELinux security -> File system and processes
