@@ -51,3 +51,42 @@ Let us temporary disable firewall. Note that this is not a best practice.
 -	systemctl stop firewalld
 
 The place where we save our file, is called as documentRoot
+
+# Red Hat & Python: Summary for 05-Mar-2020: 
+
+-	systemctl status httpd (d stands for  daemon)
+
+Service failed because: SELinux security was prohibiting the out of range port number
+
+SELinux is a one of linux security.
+
+SELinux alter:
+Check current status:
+-	getenforce <BR/>
+Enforcing
+-	setenforce 0 <BR/>
+Permissive
+-	setenforce 1 <BR/>
+Enforcing
+
+Nmap is a scanning tool to scan open ip addresses.
+-	Yum install nmap
+-	nmap -sP 192.168.0.162
+-	nmap -sT 192.168.0.162
+-	nmap -sT 1111 192.168.0.162
+
+Check port
+
+-	nmap -sT p 1111 192.168.0.162
+
+Webserver can read from vimal folder not from html folder.
+Priority goes to latest included files: 
+
+Same way yum.conf is original file and not yum.repos.d:
+
+Default directory index: 
+
+Que: How to change the  document folder.
+
+Firewall security -> network level
+SELinux security -> File system and processes
