@@ -325,3 +325,36 @@ Let us temporary disable firewall. Note that this is not a best practice.
 The place where we save our file, is called as documentRoot
 
 ## Red Hat & Python: Summary for Mar 03, 2020: 
+
+## Red Hat & Python: Summary for Mar 20, 2020: 
+IIEC RISE ID: RISE2020_71_6_1
+- Conditional statements
+- checking if applicant have greater than 2 years of experience or not
+- indentation required for any block related codes
+- comparing values
+- type casting variables
+- Nested if statements
+- additional topics on project
+
+if exp <= 2:
+	print("Hi")
+else:
+	print("Bye")
+
+- Nested if statements
+- useradd pop1 - command to create a new user
+- id pop1 - check if pop1 user is available
+- 
+
+Some examples as 
+
+>>> x = 5
+>>> y = 10
+>>> print("this is {}".format(x))
+this is 5
+>>> print("this is {} and {}".format(x,y))
+this is 5 and 10
+>>> print("this is {1} and {0}".format(x,y))
+this is 10 and 5
+>>> 
+
