@@ -7,8 +7,7 @@
     - Name : Redhat 8 <br/>
     - Type : Linux <br/>
     - Version : Red Hat (64-bit) <br/>
-    If you are not able to select 64-bit version, you need to Enable Virtualization through your laptop's BIOS setting.
-  
+    If you are not able to select 64-bit version, you need to Enable Virtualization through your laptop's BIOS setting. <br/>
     - Restart your laptop <br/>
     - On restart, press F2/F10 to enter the BIOS <br/>
     - Enable Virtualization <br/>
