@@ -1,13 +1,13 @@
 ## Installing Redhat 8
 
-1 Make sure you have Oracle VM Virtual Box installed
-2 Open Oracle VM Virtual Box installed
-3 Click 'New' button to create new vm machine
-4 Name and Operating System: Provide following details for new virtual Machine
-  a Name : Redhat 8
-  b Type : Linux
-  c Version : Red Hat (64-bit)
-  If you are not able to select 64-bit version, you need to Enable Virtualization through your laptop's BIOS setting.
+  1. Make sure you have Oracle VM Virtual Box installed
+  2. Open Oracle VM Virtual Box installed
+  3. Click 'New' button to create new vm machine
+  4. Name and Operating System: Provide following details for new virtual Machine
+    a Name : Redhat 8
+    b Type : Linux
+    c Version : Red Hat (64-bit)
+    If you are not able to select 64-bit version, you need to Enable Virtualization through your laptop's BIOS setting.
   
   d Restart your laptop
   e On restart, press F2/F10 to enter the BIOS
