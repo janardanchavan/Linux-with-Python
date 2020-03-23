@@ -32,5 +32,29 @@
   17 Click Start button on the top. It will power on you operating syste and start installing Red hat.
   18 On the blank screen, using arrow key select the first option:
       Install Red Hat Enterprise Linux 8.0.0
+  19 After installation it will ask few settings:
+    - Language: English(United states)
+    - Installation Destination (Partition): Select it and click Done
+    - Network & Host Name: Open  it and click On against "Ethernet (enp0s3), click Done
+    - Software Selection: Select Workstation and click Done
+    - Time & Date: As per your country, change the time zone. Click Done
+  20 Click Begin Installation
+  
+  This will some time.
+  
+  21 After installation it will ask you to enter <br/>
+    - root user password and confirm
+    - new user creation
+  22 After entering the details continue the installation process. <br/>
+     This will create user
+  22 Reboot your machine
+  
+  Note that it will again start the installation, rather power off the machine.
+  
+  23 On Oracle VM VirtualBox Manager, right click the machine and select Settings.
+  24 Move the "Hard Disk" option up at the top so that the installed OS will start next time when you restart the machine.
+  
+  Thank you.
+    
     
 
