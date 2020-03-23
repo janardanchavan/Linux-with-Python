@@ -26,7 +26,7 @@
   14. Click Choose Virtual Optical Disk file
   15. Select the Redhat 8 iso file whereever it is downloaded and click OK.
 
-  Now we can start installing OS
+    Now we can start installing OS
 
   16. Select the VM machine
   17. Click Start button on the top. It will power on you operating syste and start installing Red hat.
@@ -40,7 +40,7 @@
     - Time & Date: As per your country, change the time zone. Click Done
   20. Click Begin Installation
   
-  This will some time.
+    This will take some time.
   
   21. After installation it will ask you to enter <br/>
     - root user password and confirm
