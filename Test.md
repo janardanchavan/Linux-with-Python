@@ -13,24 +13,24 @@
     - Enable Virtualization <br/>
     - Press F10 to save the changes and exit BIOS
   
-5 Memory Size: Enter 2048 i.e. 2 GB Ram
-6 Hard Disk: Create a Virtual Hard Disk now
-7 Hard Disk File Type: VDI (Virtualbox Disk Image)
-8 Storage on Physical Hard Disk: Dynamically Allocated
-9 File Location and size: 100 GB
-10 Click Create button. Your Virtual Machine / Hardware (RAM/CPU/Harddisk) is up now.
+  5 Memory Size: Enter 2048 i.e. 2 GB Ram
+  6 Hard Disk: Create a Virtual Hard Disk now
+  7 Hard Disk File Type: VDI (Virtualbox Disk Image)
+  8 Storage on Physical Hard Disk: Dynamically Allocated
+  9 File Location and size: 100 GB
+  10 Click Create button. Your Virtual Machine / Hardware (RAM/CPU/Harddisk) is up now.
 
-11 Right Click the VM name and select Settings
-12 Select Storage
-13 At the right side, click the CD icon in front of Optical Drive drop down.
-14 Click Choose Virtual Optical Disk file
-15 Select the Redhat 8 iso file whereever it is downloaded and click OK.
+  11 Right Click the VM name and select Settings
+  12 Select Storage
+  13 At the right side, click the CD icon in front of Optical Drive drop down.
+  14 Click Choose Virtual Optical Disk file
+  15 Select the Redhat 8 iso file whereever it is downloaded and click OK.
 
-Now we can start installing OS
+  Now we can start installing OS
 
-16 Select the VM machine
-17 Click Start button on the top. It will power on you operating syste and start installing Red hat.
-18 On the blank screen, using arrow key select the first option:
-    Install Red Hat Enterprise Linux 8.0.0
+  16 Select the VM machine
+  17 Click Start button on the top. It will power on you operating syste and start installing Red hat.
+  18 On the blank screen, using arrow key select the first option:
+      Install Red Hat Enterprise Linux 8.0.0
     
 
