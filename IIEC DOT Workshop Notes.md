@@ -51,3 +51,6 @@ Docker Summary and practicals
 
 Demo - ML+DevOps demo with Mask-RCNN, Image Recognition <br/>
 Yolo vs Mask-RCNN.
+
+## Feedback link:
+https://www.linkedin.com/pulse/2-days-free-technical-workshop-artificial-janardan-chavan
