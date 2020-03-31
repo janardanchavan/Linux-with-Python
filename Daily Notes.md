@@ -536,6 +536,10 @@ Preparation for coming 2-day workshop:
 - Devices => WebCam => (By Default WebCam option is not available, to enable WebCam option, use  extension provided, Oracle_VM_,
 - Install this extension in Oracle VM Machine, File, preferences, extensions, Add)
 
+## 30-Mar-2020:
+Announcement by Preeti about MLOPs internship.
+
+
 ## Redhat & Python Summary for 31-Mar-2020:
 #### 1st topic:  create a login and password.
 
