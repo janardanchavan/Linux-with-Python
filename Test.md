@@ -29,6 +29,7 @@ use getpass() for entering password as it takes the input but doesn't echo back.
 	x = getpass.getpass("Enter your string: ")
 
 store password in : database,
+
 compile program and convert into binary.
 
 #### 3rd topic: Avoid typing password for ssh agian and again:
@@ -37,6 +38,7 @@ lots of way for authentication:
 - key based authentication (private key)
 
 ssh-keygen command -  to gerate public/private rsa key pair.
+
 command to be typed on A machine from where we are running command for another machine
 
 This is a public key and password-less authentication.
