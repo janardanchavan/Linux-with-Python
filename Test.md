@@ -1,27 +1,29 @@
 IIEC RISE ID: RISE2020_71_6_1
 ## Redhat & Python Summary for 31-Mar-2020:
-1st topic:  create a login and password.
+#### 1st topic:  create a login and password.
 
-vim menu.py
+    vim menu.py
 
-before where to run,
-passwd = input("Enter ur password: ")
----------------------------------
-apass = "lw"
-if passwd != apass:
+before where to run
+
+    passwd = input("Enter ur password: ")
+
+    apass = "lw"
+	if passwd != apass:
     print("Auth incorrect")
-    exit()
-else
-    your code
----------------------------------
-2nd topic: stop echo back.
+        exit()
+    else
+        your code
+
+#### 2nd topic: stop echo back.
 
 Due to 'echo back', character is displayed on the screen
 telnet	X
 http	X
 
 use getpass() for entering password as it takes the input but doesn't echo back.
-import getpass
+        import getpass
+
 	x = getpass.getpass()
 
 	x = getpass.getpass("Enter your string: ")
@@ -29,7 +31,7 @@ import getpass
 store password in : database,
 compile program and convert into binary.
 
-3rd topic: Avoid typing password for ssh agian and again:
+#### 3rd topic: Avoid typing password for ssh agian and again:
 lots of way for authentication:
 - password based authentication
 - key based authentication (private key)
