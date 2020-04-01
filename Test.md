@@ -17,23 +17,23 @@ Q4. In 1 MB, how much kilobyte you have?
 3. 1024 KB
 4. NOT
 
-1000 KB in human language/Decimal
+1000 KB in human language/Decimal <br/>
 1024 KiB in Computer lang/Binary
 
-- lvdisplay -> shows partition size in GiB
+	lvdisplay -> shows partition size in GiB
 
-HD/Floppy/Pen/DvD = Storage (needed to store data permanent)
+HD/Floppy/Pen/DvD = Storage (needed to store data permanent) <br/>
 We cannot store data on storage.
 
 Data need File need Directory need partition/drive
 
 Q5. Why we need to create multiple partitions?
 
-(electro mechanical hard disk)
+(electro mechanical hard disk) <br/>
 Ex. SATA HARD DISKS (Aluminium)
-	platter
-		trackers
-			sectors
+  platter
+    trackers
+      sectors
 
 A converted into asci (065) converted into binary (01000001)
 
