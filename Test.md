@@ -31,11 +31,9 @@ Q5. Why we need to create multiple partitions?
 
 (electro mechanical hard disk) <br/>
 Ex. SATA HARD DISKS (Aluminium) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;platter
-
-        platter
-            trackers
-                sectors
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;platter <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;trackers <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sectors
 
 A converted into asci (065) converted into binary (01000001)
 
