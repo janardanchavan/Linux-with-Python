@@ -30,7 +30,8 @@ Data need File need Directory need partition/drive
 Q5. Why we need to create multiple partitions?
 
 (electro mechanical hard disk) <br/>
-Ex. SATA HARD DISKS (Aluminium)
+Ex. SATA HARD DISKS (Aluminium) <br/>
+"    platter"
 
         platter
             trackers
