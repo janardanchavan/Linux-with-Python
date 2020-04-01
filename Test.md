@@ -39,17 +39,17 @@ A converted into asci (065) converted into binary (01000001)
 
 head / hole on plates
 
-shred remove drive
+shred remove file
 
 1 sector = 512 bytes
 
 - fdisk -l
 
-sda / hda / vda => Hard Disk
-sdb / hdb / vdb => for second HD
+sda / hda / vda => Hard Disk <br/>
+sdb / hdb / vdb => for second HD <br/>
 all the devices are in dev folder, eg. /dev/sda
 
-sector range 0-209715199
+sector range 0-209715199 <br/>
 2048-209919
 
 
@@ -57,7 +57,7 @@ init 0 -> shut down operating system
 
 right click -> go to settings -> storage -> Add a new virtual Hard Disk.
 
-Questions:
+Questions: <br/>
 There are two type of partitions avaible 1. fixed size 2. variable size ???
 
 dynamic and static hard disk?
