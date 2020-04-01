@@ -31,7 +31,7 @@ Q5. Why we need to create multiple partitions?
 
 (electro mechanical hard disk) <br/>
 Ex. SATA HARD DISKS (Aluminium) <br/>
-"    platter"
+    platter
 
         platter
             trackers
