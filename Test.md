@@ -31,3 +31,17 @@ IIEC RISE ID: RISE2020_71_6_1
 - on ubuntu yum doesn't work. There is apt-get command.
 - Why Docker is fast?
 - About next technology, ML on DevOps
+
+
+	┌──────────────────────────────────────────────────────────┐
+	│                     Host OS (Linux)                      │
+	│                                                          │
+	│  ┌───────────────┐ ┌───────────────┐  ┌───────────────┐  │
+	│  │ Container OS  │ │ Container OS  │  │ Container OS  │  │
+	│  │   (Ubuntu)    │ │   (Ubuntu)    │  │   (Ubuntu)    │  │
+	│  │ ┌───────────┐ │ │ ┌───────────┐ │  │ ┌───────────┐ │  │
+	│  │ │ Couchbase │ │ │ │ Couchbase │ │  │ │ Couchbase │ │  │
+	│  │ │  Server   │ │ │ │  Server   │ │  │ │  Server   │ │  │
+	│  │ └───────────┘ │ │ └───────────┘ │  │ └───────────┘ │  │
+	│  └───────────────┘ └───────────────┘  └───────────────┘  │
+	└──────────────────────────────────────────────────────────┘
