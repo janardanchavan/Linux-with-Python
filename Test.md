@@ -2,7 +2,7 @@ IIEC RISE ID: RISE2020_71_6_1
 
 ## Docker Summary for 05-Apr-2020:
 
-fdisk -l => to check how many hard disk do we have
+fdisk -l => to check how many hard disk do we have <br/>
 fdisk -l /dev/sda =>To check for the particular hard disk	
 
 Today's topic: how to create partition ourself
@@ -20,9 +20,9 @@ p => to show detail about hard disk
 
 N => to create new partition
 
-p option => for primary partition
-1 option => first partition
-start of partition
+p option => for primary partition <br/>
+1 option => first partition <br/>
+start of partition <br/>
 end of partition
 
 Creating second drive:
@@ -33,15 +33,15 @@ n 1 hard disk, we can create only 4 partitions, i.e. 1 hard disk = max 4 partiti
 
 If any space remaining, it is called as un-alloated space / sector, because we cannot create fifth partition.
 
-1 information of 1 partition required 16 bytes.
-This information is stored in the partition table.
+1 information of 1 partition required 16 bytes. <br/>
+This information is stored in the partition table. <br/>
 Partitional table size is 64 bytes.
 
 64/16 = 4, hence, we can create 4 partitions only.
 
 To create additional partitions, create 4th partition as extended partion.
 
-We'll have primary and logical (extended) partitional
+We'll have primary and logical (extended) partitional <br/>
 enter and enter
 
 5th partition
