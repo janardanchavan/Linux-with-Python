@@ -19,3 +19,11 @@ https://www.youtube.com/watch?v=EyM2NO-1A0Q&list=PLAi9X1uG6jZ2b1mUmrUcc_aEoc8tfs
 	│  └───────────────┘ └───────────────┘  └───────────────┘  │
 	└──────────────────────────────────────────────────────────┘
 ```
+
+## SQL/Database questions
+how to check number of sql instances?
+how to check  number of current connections?
+how to check max number of connections?
+how to check max join size?
+
+How to increase the performance of the sql queries?
