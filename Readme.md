@@ -7,4 +7,4 @@ Today's Topic : List comprehension
 - functional language or programming (for information only)
 - various ways of using list comprehension.
 
-[IIEC RISE ID: RISE2020_71_6_1]
+IIEC RISE ID: RISE2020_71_6_1
