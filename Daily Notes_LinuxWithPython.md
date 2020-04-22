@@ -668,4 +668,16 @@ Today's Topic : List comprehension
 - functional language or programming (for information only)
 - various ways of using list comprehension.
 
+## Python Summary Session31 - 21-Apr-2020:
+
+- Generators
+- Lazy execution
+- state remembers value.
+- Regular lists are stateless
+- List Comprehension
+- iterators
+- iterating through lists
+- yield
+
 IIEC RISE ID: RISE2020_71_6_1
+
