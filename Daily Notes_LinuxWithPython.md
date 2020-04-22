@@ -67,6 +67,7 @@ various commands like, watch, bash, ^C, ^Z, fg, bg, jobs, echo with various form
   Thank you.
 
 ## Summary for 12-Feb-2020
+Networking concept, IP connectivity, IP Address understanding, commands checked - neo, ipconfig, nslookup, bc, ping, ip address conversion between octal format to decimal format, etc.
 
 ## Summary for 13-Feb-2020
 gnome: how to find all the commands used by a particular program. Simple for loop, and other commands like: ps, kill, mkdir, cd, ls, gedit, cat, touch, REPL, etc.
