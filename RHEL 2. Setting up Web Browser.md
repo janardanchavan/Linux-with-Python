@@ -1,4 +1,4 @@
-# 2. Setting up Web Browser
+# RHEL 2. Setting up Web Browser
 ```
 I am going to configure my ip 192.168.1.105 as my web server.
 
