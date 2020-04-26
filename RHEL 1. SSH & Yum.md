@@ -1,4 +1,4 @@
-# 1. SSH & Yum
+# RHEL 1. SSH & Yum
 ```
 To install the OpenSSH client:
 
