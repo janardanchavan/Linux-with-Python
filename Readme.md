@@ -8,3 +8,6 @@ Today's Topic : List comprehension
 - various ways of using list comprehension.
 
 IIEC RISE ID: RISE2020_71_6_1
+
+
+## Python Summary for 08-Jul-2020:
