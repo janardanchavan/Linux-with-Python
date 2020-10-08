@@ -13,3 +13,6 @@ IIEC RISE ID: RISE2020_71_6_1
 ## Python Summary for 08-Jul-2020:
 
 Today's Topic : LVM
+
+
+[EMOJI CHEAT SHEET](https://www.webfx.com/tools/emoji-cheat-sheet/)
