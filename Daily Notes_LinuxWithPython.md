@@ -21,7 +21,7 @@ various commands like, watch, bash, ^C, ^Z, fg, bg, jobs, echo with various form
     - Restart your laptop <br/>
     - On restart, press F2/F10 to enter the BIOS <br/>
     - Enable Virtualization <br/>
-    - Press F10 to save the changes and exit BIOS
+    - Press F10 to save the changes and exit BIOS <br/>
   
   5. Memory Size: Enter 2048 i.e. 2 GB Ram
   6. Hard Disk: Create a Virtual Hard Disk now
@@ -42,12 +42,12 @@ various commands like, watch, bash, ^C, ^Z, fg, bg, jobs, echo with various form
   17. Click Start button on the top. It will power on you operating syste and start installing Red hat.
   18. On the blank screen, using arrow key select the first option:
       Install Red Hat Enterprise Linux 8.0.0
-  19. After installation it will ask few settings:
-    - Language: English(United states)
-    - Installation Destination (Partition): Select it and click Done
-    - Network & Host Name: Open  it and click On against "Ethernet (enp0s3), click Done
-    - Software Selection: Select Workstation and click Done
-    - Time & Date: As per your country, change the time zone. Click Done
+  19. After installation it will ask few settings: <br/>
+    - Language: English(United states) <br/>
+    - Installation Destination (Partition): Select it and click Done <br/>
+    - Network & Host Name: Open  it, Select "Ethernet (enp0s3)" so that it will reflect "ON" status,  click Done <br/>
+    - Software Selection: Select Workstation and click Done <br/>
+    - Time & Date: As per your country, change the time zone. click Done <br/>
   20. Click Begin Installation
   
     This will take some time.
@@ -59,7 +59,7 @@ various commands like, watch, bash, ^C, ^Z, fg, bg, jobs, echo with various form
      This will create user
   22. Reboot your machine
   
-  Note that it will again start the installation, rather power off the machine.
+  Note that it will again start the installation, rather <b> power off </b> the machine.
   
   23. On Oracle VM VirtualBox Manager, right click the machine and select Settings.
   24. Move the "Hard Disk" option up at the top so that the installed OS will start next time when you restart the machine.
