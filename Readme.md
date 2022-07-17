@@ -18,3 +18,5 @@ Today's Topic : LVM
 [EMOJI CHEAT SHEET](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 [Trying to SSH to local VM Ubuntu with Putty](https://unix.stackexchange.com/questions/145997/trying-to-ssh-to-local-vm-ubuntu-with-putty)
+
+[Linux Command](https://www.xmind.net/m/WwtB/#)
